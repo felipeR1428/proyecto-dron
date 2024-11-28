@@ -1,0 +1,4 @@
+Juan Pérez,Accidente,4.6584,-74.0937
+María López,Incendio,4.7038,-74.1126
+Carlos Martínez,Paro cardíaco,4.7109,-74.0721
+Ana Gómez,Otra,4.6351,-74.0703
